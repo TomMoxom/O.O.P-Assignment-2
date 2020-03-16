@@ -1,0 +1,11 @@
+E:\O.O.P\Assessment_2_Code\bin\Debug\netcoreapp3.1\Assessment_2_Code.exe
+E:\O.O.P\Assessment_2_Code\bin\Debug\netcoreapp3.1\Assessment_2_Code.deps.json
+E:\O.O.P\Assessment_2_Code\bin\Debug\netcoreapp3.1\Assessment_2_Code.runtimeconfig.json
+E:\O.O.P\Assessment_2_Code\bin\Debug\netcoreapp3.1\Assessment_2_Code.runtimeconfig.dev.json
+E:\O.O.P\Assessment_2_Code\bin\Debug\netcoreapp3.1\Assessment_2_Code.dll
+E:\O.O.P\Assessment_2_Code\bin\Debug\netcoreapp3.1\Assessment_2_Code.pdb
+E:\O.O.P\Assessment_2_Code\obj\Debug\netcoreapp3.1\Assessment_2_Code.csprojAssemblyReference.cache
+E:\O.O.P\Assessment_2_Code\obj\Debug\netcoreapp3.1\Assessment_2_Code.AssemblyInfoInputs.cache
+E:\O.O.P\Assessment_2_Code\obj\Debug\netcoreapp3.1\Assessment_2_Code.AssemblyInfo.cs
+E:\O.O.P\Assessment_2_Code\obj\Debug\netcoreapp3.1\Assessment_2_Code.dll
+E:\O.O.P\Assessment_2_Code\obj\Debug\netcoreapp3.1\Assessment_2_Code.pdb
